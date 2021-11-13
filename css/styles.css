@@ -1,0 +1,36 @@
+* {
+    background: #E8F0F2;
+    margin: 0;
+    font-family: Helvetica;
+    color: #053742;
+}
+
+h1 {
+    margin: 10px auto;
+    color: #3D84B8;
+}
+
+h1, main {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.container {
+    margin: 20px auto;
+}
+
+label, input {
+    display: block;
+}
+
+#outputArea {
+    margin-top: 20px;
+}
+
+#outputArea img {
+    margin-top: 15px;
+}
